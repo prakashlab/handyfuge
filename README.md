@@ -1,12 +1,28 @@
 # handyfuge
-Mechanical design files for portable hand-powered centrifuge
+Mechanical design files for a portable hand-powered centrifuge.
+
+<img src="https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.1.0_top.jpg" width=800 alt="v0.1.0 prototype, top view">
+
+<img src="https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.1.0_bottom.jpg" width=800 alt="v0.1.0 prototype, bottom view">
 
 
 ## Designs
 
-Laser-cutting fabrication files can be found in this repository. The CAD sources for these files can be viewed and copied [at OnShape](https://cad.onshape.com/documents/2cf671f300bec1e37c7aebdd/w/50c80549fc61639971846d73/e/14e672d36cf51ed47f4d48e6?configuration=List_Y2HIPiqMowNxyx%3DDefault%3BList_p3Npt1bOHtHOFd%3DGuard%3BList_t8Keu0A1rNYTF2%3D_1_5_mL_tube).
+The CAD sources for these designs can be viewed and copied [at OnShape](https://cad.onshape.com/documents/2cf671f300bec1e37c7aebdd/w/50c80549fc61639971846d73/e/14e672d36cf51ed47f4d48e6?configuration=List_Y2HIPiqMowNxyx%3DDefault%3BList_p3Npt1bOHtHOFd%3DGuard%3BList_t8Keu0A1rNYTF2%3D_1_5_mL_tube). Laser-cutting fabrication files, generated from the CAD sources, can be found in the `design` folder of this repository, organized by prototype version. More information about each prototype version can be found in the `README.md` file in the subfolder for that prototype version.
 
 Photographs of prototype designs can be found [here](https://drive.google.com/drive/folders/1ZNTd_ySJtXn2qwRWTb83T112aYDAMxPa?usp=sharing).
+
+
+## Manuscripts
+
+\* indicates equal contributions, while † denotes corresponding author.
+
+**Handyfuge-LAMP: low-cost and electricity-free centrifugation for isothermal SARS-CoV-2 detection in saliva**
+
+- Ethan Li\*, Adam Larson\*, Anesta Kothari, Manu Prakash
+- Correspondence: manup at stanford dot edu
+- [medRxiv preprint](https://www.medrxiv.org/content/10.1101/2020.06.30.20143255v1), July 2020
+
 
 
 ## License
